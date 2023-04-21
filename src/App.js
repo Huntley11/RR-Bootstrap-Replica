@@ -11,7 +11,7 @@ const Splash = styled.div`
   width: 100vw;
   height: 500px;
   background-repeat: no-repeat;
-  backgroun-size: cover;
+  background-size: cover;
   background-image: url(${ splashImage });
   background-color: #dfeed6;
   position: absolute;
